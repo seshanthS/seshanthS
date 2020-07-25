@@ -7,6 +7,20 @@
 ![Seshanth's github stats](https://github-readme-stats.vercel.app/api?username=seshanthS&count_private=true&show_icons=true&theme=vue&hide_border=true&show_owner=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seshanthS&hide=shaderlab)
 
+## About Me
+I'm Seshanth, A Blockchain Developer, and also a Potterhead :stuck_out_tongue:. 
+
+I believe in Decentralization and OpenSource.
+
+## Things I am passionate about
+ - Ethereum 
+ - Decentralization
+ - OpenSource :heart:
+ 
+ ## Get in touch :coffee:
+ - [Twitter](https://twitter.com/seshanth_)
+ - [LinkedIn](https://linkedin.com/in/seshanths)
+
 
 <!--
 **seshanthS/seshanthS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
