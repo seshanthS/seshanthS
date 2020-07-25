@@ -2,8 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=seshanthS&color=green)
 
-![Seshanth's github stats](https://github-readme-stats.vercel.app/api?username=seshanthS&count_private=true&show_icons=true&theme=vue&hide_border=true&show_owner=true&count_private=true)  
+![ethereum Banner](https://github.com/seshanthS/seshanthS/blob/master/banner-min.jpg)
 
+![Seshanth's github stats](https://github-readme-stats.vercel.app/api?username=seshanthS&count_private=true&show_icons=true&theme=vue&hide_border=true&show_owner=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seshanthS&hide=shaderlab)
 
 
