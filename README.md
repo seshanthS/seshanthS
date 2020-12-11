@@ -4,8 +4,14 @@
 
 ![ethereum Banner](https://github.com/seshanthS/seshanthS/blob/master/banner-min.jpg)
 
-![Seshanth's github stats](https://github-readme-stats.vercel.app/api?username=seshanthS&count_private=true&show_icons=true&theme=vue&hide_border=true&show_owner=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seshanthS&hide=shaderlab)
+![Seshanth's github stats](https://github-readme-stats.vercel.app/api?username=seshanthS&count_private=true&show_icons=true&theme=vue&hide_border=true&show_owner=true&count_private=true) 
+
+[![Maker Deployments](https://github-readme-stats.vercel.app/api/pin/?username=seshanthS&repo=makerDeployements)](https://github.com/anuraghazra/github-readme-stats)
+[![Maker Deployments](https://github-readme-stats.vercel.app/api/pin/?username=seshanthS&repo=makerDeployements)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seshanthS&hide=shaderlab,c#,ASP)
+-->
+
 
 ## About Me
 I'm Seshanth, A Blockchain Developer, and also a Potterhead :stuck_out_tongue:. 
